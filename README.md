@@ -5,3 +5,5 @@ Images folder contains 14 RGB images;
 Heatmaps folder includes CVD (Colour Vision Deficiency) and NVS (Normal Vision System) eye-movement distribution as heatmaps
 Experiments_GitHub.xlsx is a spreadsheet file with all details about fixation point number for each image, stats and percentage of AOI (Areas of Interest) points.
 Fixation_points.numbers contains all anonymised experimental data
+
+![Picture 1](https://user-images.githubusercontent.com/44330292/225162072-814e1b48-e232-46d7-8449-a0eef4e2ff80.png)
